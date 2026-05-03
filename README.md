@@ -1,10 +1,10 @@
-# FFUF Skill for Claude Code
+# FFUF Skill for kimi 
 
-A Claude Code skill that integrates the powerful web fuzzer [ffuf](https://github.com/ffuf/ffuf) (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.
+A kimi skill that integrates the powerful web fuzzer [ffuf](https://github.com/ffuf/ffuf) (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.
 
 ## Overview
 
-This skill enables Claude Code to perform intelligent web fuzzing operations using ffuf, making it easier to discover hidden directories, files, subdomains, and API endpoints.
+This skill enables kimi to perform intelligent web fuzzing operations using ffuf, making it easier to discover hidden directories, files, subdomains, and API endpoints.
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ git clone https://github.com/ayushkhatkar/ffuf-skills
 2. Copy the skill folder to Claude Code's skills directory:
 ```bash
 mkdir -p ~/.claude/skills
-cp -r ffuf_claude_skill/ffuf-skill ~/.claude/skills/
+cp -r ffuf-skill/ffuf-skill ~/.claude/skills/
 ```
 
 3. The skill is now available for Claude Code to use!
