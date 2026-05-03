@@ -1,4 +1,4 @@
-# FFUF Skill for kimi 
+# FFUF Skill for vibe hacking 
 
 A kimi skill that integrates the powerful web fuzzer [ffuf](https://github.com/ffuf/ffuf) (Fuzz Faster U Fool) for web security testing and reconnaissance tasks.
 
