@@ -30,7 +30,7 @@ go install github.com/ffuf/ffuf/v2@latest
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/jthack/ffuf_claude_skill
+git clone https://github.com/ayushkhatkar/ffuf-skills
 ```
 
 2. Copy the skill folder to Claude Code's skills directory:
@@ -73,10 +73,6 @@ Unauthorized testing of systems is illegal and unethical.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-MIT License - See LICENSE file for details
 
 ## Disclaimer
 
